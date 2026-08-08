@@ -1,6 +1,6 @@
 <h1>Olá, eu sou 👋, Beatriz kira</h1>
 
-<p>🌱 Estudante de Engenharia da Computação - 4º Período 
+<p>🌱 Estudante de Engenharia da Computação - 5º Período 
  <p> 💻 Estagiária QA Software Engineer</p>
    <p>✉️ Entre em contato comigo: biadevfullstack@gmail.com </p>
    <p>😊 Pronomes: ela/dela</p>
